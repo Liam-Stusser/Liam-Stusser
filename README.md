@@ -10,9 +10,11 @@ I'm a self-motivated developer currently sharpening my front-end and general pro
 
 I've earned the following certifications from [FreeCodeCamp](https://www.freecodecamp.org/LiamStusser):
 
-- **Responsive Web Design Certification** (April 2025)
-- **JavaScript Algorithms and Data Structures Certification** (March 2025)
-- **Front End Development Libraries Certification** (February 2025)
+- **Responsive Web Design Certification** 
+- **JavaScript Algorithms and Data Structures Certification** 
+- **Front End Development Libraries Certification**
+- **Data Visualization**
+- **C# Microsoft Certification**
 
 These certifications involved building projects that demonstrate my proficiency in each area. You can view these projects in my [FCC-Projects repository](https://github.com/Liam-Stusser/FCC-Projects).
 
@@ -24,7 +26,7 @@ I'm actively expanding my expertise in:
 
 - **Front-End Development**: HTML, CSS, JavaScript, React, Redux
 - **Back-End Development**: C# and .NET (Console Projects)
-- **Programming Languages**: Reacquainting myself with Python and Java
+- **Programming Languages**: Reacquainting myself with Python
 - **Game Development**: Exploring Unity with C#
 
 ---
@@ -35,7 +37,7 @@ After exploring various career paths, I've committed to pursuing programming pro
 
 - **Game Development and Design**
 - **Back-End Systems and Logic-Driven Projects**
-- **Cross-Language Proficiency**: Understanding how different technologies integrate
+- **Font-End Design and Security**
 
 I have experience with **Unity and C#** from previous projects and plan to delve deeper into game development as I strengthen my programming foundations.
 
